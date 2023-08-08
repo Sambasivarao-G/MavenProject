@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-08T17:20:23 IST" name="Default suite" finished-at="2023-08-08T17:20:36 IST" duration-ms="13348">
+    <groups>
+    </groups>
+    <test started-at="2023-08-08T17:20:23 IST" name="Default test" finished-at="2023-08-08T17:20:36 IST" duration-ms="13348">
+      <class name="MavenPrac.WindowTab">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:MavenPrac.WindowTab@79e4c792]" started-at="2023-08-08T17:20:23 IST" name="beforeTest" finished-at="2023-08-08T17:20:28 IST" duration-ms="5080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="windowTest()[pri:0, instance:MavenPrac.WindowTab@79e4c792]" started-at="2023-08-08T17:20:28 IST" name="windowTest" finished-at="2023-08-08T17:20:36 IST" duration-ms="8179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:MavenPrac.WindowTab@79e4c792]" started-at="2023-08-08T17:20:36 IST" name="afterTest" finished-at="2023-08-08T17:20:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- MavenPrac.WindowTab -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
